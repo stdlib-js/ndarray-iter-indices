@@ -94,7 +94,8 @@
     "iterate",
     "iteration",
     "iter",
-    "subscripts"
+    "subscripts",
+    "ndindex"
   ],
   "funding": {
     "type": "opencollective",
