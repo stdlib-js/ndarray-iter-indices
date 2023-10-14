@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-iter-indices",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Create an iterator which returns indices for use indexing into an ndarray having a specified shape.",
   "license": "Apache-2.0",
   "author": {
@@ -43,10 +43,10 @@
     "@stdlib/assert-is-nonnegative-integer": "^0.1.0",
     "@stdlib/assert-is-plain-object": "^0.1.1",
     "@stdlib/ndarray-base-assert-is-order": "^0.1.1",
-    "@stdlib/ndarray-base-next-cartesian-index": "github:stdlib-js/ndarray-base-next-cartesian-index#main",
+    "@stdlib/ndarray-base-next-cartesian-index": "^0.1.0",
     "@stdlib/ndarray-base-numel": "^0.1.1",
     "@stdlib/string-format": "^0.1.1",
-    "@stdlib/symbol-iterator": "^0.1.0",
+    "@stdlib/symbol-iterator": "^0.1.1",
     "@stdlib/types": "^0.1.0",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1"
   },
