@@ -54,7 +54,7 @@
     "@stdlib/array-base-zero-to": "^0.1.0",
     "@stdlib/assert-is-iterator-like": "^0.1.1",
     "@stdlib/assert-is-nonnegative-integer-array": "^0.1.0",
-    "@stdlib/bench": "^0.2.0",
+    "@stdlib/bench": "^0.2.1",
     "@stdlib/ndarray-array": "^0.1.0",
     "@stdlib/ndarray-zeros": "^0.1.0",
     "proxyquire": "^2.0.0",
