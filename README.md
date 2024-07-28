@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import nditerIndices from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-iter-indices@deno/mod.js';
+import nditerIndices from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-iter-indices@v0.2.2-deno/mod.js';
 ```
 
 #### nditerIndices( shape\[, options] )
@@ -141,7 +141,7 @@ The returned [iterator][mdn-iterator-protocol] protocol-compliant object has the
 ```javascript
 import array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-array@deno/mod.js';
 import zeroTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zero-to@deno/mod.js';
-import nditerIndices from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-iter-indices@deno/mod.js';
+import nditerIndices from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-iter-indices@v0.2.2-deno/mod.js';
 
 // Define an input array:
 var x = array( zeroTo( 27 ), {
