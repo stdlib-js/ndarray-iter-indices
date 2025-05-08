@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-14)
+## Unreleased (2025-05-08)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`25f29f8`](https://github.com/stdlib-js/stdlib/commit/25f29f85b888fd71646902ad9cda4f5f6aa62eff) - **refactor:** use base assertion utility _(by Athan Reines)_
 -   [`a299630`](https://github.com/stdlib-js/stdlib/commit/a299630d08a49ba51c6e3501fbd7d215338ca23a) - **fix:** avoid potential external mutation _(by Athan Reines)_
 
 </details>

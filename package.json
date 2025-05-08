@@ -43,6 +43,7 @@
     "@stdlib/assert-is-nonnegative-integer": "^0.2.2",
     "@stdlib/assert-is-plain-object": "^0.2.2",
     "@stdlib/ndarray-base-assert-is-order": "^0.2.2",
+    "@stdlib/ndarray-base-assert-is-row-major-string": "github:stdlib-js/ndarray-base-assert-is-row-major-string#main",
     "@stdlib/ndarray-base-next-cartesian-index": "^0.2.2",
     "@stdlib/ndarray-base-numel": "^0.2.2",
     "@stdlib/string-format": "^0.2.2",
